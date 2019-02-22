@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Warnung für mobile Daten</string>
+    <string name="description">Eine einfache App um die den Benutzer warnd falls er bestimmte Apps mit Mobilfunkdaten benutzt.</string>
+    <string name="selectapps">Wähle Apps aus</string>
+    <string name="message">Bitte deaktiviere mobile Daten.</string>
+</resources>
